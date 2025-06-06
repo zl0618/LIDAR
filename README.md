@@ -1,6 +1,6 @@
-# MS200 LIDAR SLAM Implementation
+# MS200 LIDAR SLAM Implementation (no ROS)
 
-Real-time SLAM using MS200k LIDAR sensor with enhanced visualization and mapping.
+Real-time SLAM using MS200k LIDAR sensor with enhanced visualization and mapping without using ROS.
 
 ## Features
 - MS200k protocol decoder with packet verification
