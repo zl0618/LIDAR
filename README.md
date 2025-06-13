@@ -24,7 +24,7 @@ python sensors/LIDAR/slam.py
 
 ## Files
 
-- `sensors/LIDAR/slam.py` - Main LIDAR visualization with polar plot
+- `sensors/LIDAR/slam_with_rpi.py` - Main LIDAR visualization with polar plot using raspberry pi 5
 - `sensors/LIDAR/rawdata.py` - Raw data monitoring and debugging tool
 
 ## Dependencies
